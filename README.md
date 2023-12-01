@@ -65,6 +65,8 @@ Before testing, you may need check and modify the parameters in `config.yml` and
 | --- | --- | --- |--- |--- |--- |--- |--- |
 | 81.5 | 66.3 | 51.9 | 39.8 | 29.8 | 59.6 | 135.2 | 23.9 |
 
+You can download the pre-trained model from [Baidu cloud](https://pan.baidu.com/s/1iMllCZAPEl1TSOy6yU-ukg) Extract code: kpmh
+
 # Reference
 
 # Acknowledgements
