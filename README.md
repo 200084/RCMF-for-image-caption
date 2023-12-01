@@ -20,15 +20,15 @@ Refer [coco-caption](https://github.com/232525/PureT/blob/main/coco_caption/READ
 Remember to unzip the .rar archive in the coco-caption.
 ## Data preparation
 The necessary files in training and evaluation are saved in `mscoco` folder, which is organized as follows:
-   ` mscoco/
-    |--feature/
-        |--coco2014/
-           |--train2014/
-           |--val2014/
-           |--test2014/
-           |--annotations/
-    |--misc/
-    |--sent/
+   ` mscoco/ </br>
+    |--feature/  </br>
+        |--coco2014/  </br>
+           |--train2014/  </br>
+           |--val2014/  </br>
+           |--test2014/  </br>
+           |--annotations/  </br>
+    |--misc/  </br>
+    |--sent/  </br>
     |--txt/ ` 
 where the mscoco/feature/coco2014 folder contains the raw image and annotation files of [MSCOCO 2014](https://cocodataset.org/#download) dataset.  
 You can download other files from the following links.
