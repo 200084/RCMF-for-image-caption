@@ -7,7 +7,7 @@ Implementation of Regular Constrained Multimodal Fusion Model for Image[](URL li
 </div>
 
 # Requirements (Our Experimental Enviroment)
-#### 3090 GPU 
+## Running on 3090 GPU 
 * Python 3.7.16
 * Pytorch 1.10.0+cu111
 * TorchVision 0.11.0+cu111
