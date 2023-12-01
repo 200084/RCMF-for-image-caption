@@ -21,13 +21,13 @@ Remember to unzip the ***.rar files in the coco-caption.
 ## Data preparation
 The necessary files in training and evaluation are saved in `mscoco` folder, which is organized as follows:
 
-mscoco/
+mscoco/  
   &nbsp;&nbsp;&nbsp;&nbsp;|--feature/  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--coco2014/  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--train2014/  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--val2014/  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--test2014/  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--annotations/  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--coco2014/  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--train2014/  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--val2014/  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--test2014/  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|--annotations/  
   &nbsp;&nbsp;&nbsp;&nbsp;|--misc/  
   &nbsp;&nbsp;&nbsp;&nbsp;|--sent/  
   &nbsp;&nbsp;&nbsp;&nbsp;|--txt/  
