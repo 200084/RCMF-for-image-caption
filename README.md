@@ -1,6 +1,6 @@
 RCMF-for-image-caption
 ====
-### Implementation of Regular Constrained Multimodal Fusion Model for Image (RCMF) [](URL link)
+### Implementation of Regular Constrained Multimodal Fusion Model for Image (RCMF).
 <div align="center">
   <img src="https://github.com/200084/RCMF-for-image-caption/blob/main/imgs/Framework.jpg">
 </div>
@@ -34,9 +34,9 @@ mscoco/
 
 where the mscoco/feature/coco2014 folder contains the raw image and annotation files of [MSCOCO 2014](https://cocodataset.org/#download) dataset.  
 You can download other files from the following links.
-* 1.[Baidu cloud](https://pan.baidu.com/s/1zaeKHy7J1CIehebkdVKmhA) Extract code: wgcq
+* 1.[Baidu cloud](https://pan.baidu.com/s/1zaeKHy7J1CIehebkdVKmhA). Extract code: wgcq
 * Place in the root directory.
-* 2.[Baidu cloud](https://pan.baidu.com/s/1-wyeEjJqHP1o-vStYh1nOg) Extract code: e4ys
+* 2.[Baidu cloud](https://pan.baidu.com/s/1-wyeEjJqHP1o-vStYh1nOg). Extract code: e4ys
 
 NOTE: You can also extract image features of MSCOCO 2014 using [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) or others and save them as ***.npz files into mscoco/feature for training speed up, refer to `coco_dataset.py` and `data_loader.py` in code repository for how to read and prepare features. In this case, you need to make some modifications to `RCMF_Model.py` (delete the backbone module) in code repository.
 
@@ -65,7 +65,7 @@ Before testing, you may need check and modify the parameters in `config.yml` and
 | --- | --- | --- |--- |--- |--- |--- |--- |
 | 81.5 | 66.3 | 51.9 | 39.8 | 29.8 | 59.6 | 135.2 | 23.9 |
 
-You can download the pre-trained model from [Baidu cloud](https://pan.baidu.com/s/1iMllCZAPEl1TSOy6yU-ukg) Extract code: kpmh
+You can download the pre-trained model from [Baidu cloud](https://pan.baidu.com/s/1iMllCZAPEl1TSOy6yU-ukg). Extract code: kpmh
 
 # Reference
 
