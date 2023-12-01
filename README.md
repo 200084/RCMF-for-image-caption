@@ -21,15 +21,15 @@ Remember to unzip the .rar archive in the coco-caption.
 ## Data preparation
 The necessary files in training and evaluation are saved in `mscoco` folder, which is organized as follows:
 mscoco/
-      |--feature/  
-         |--coco2014/  
-           |--train2014/  
-           |--val2014/  
-           |--test2014/  
-           |--annotations/  
-      |--misc/  
-      |--sent/  
-      |--txt/  
+  &nbsp;&nbsp;|--feature/  
+  &nbsp;&nbsp;&nbsp;|--coco2014/  
+  &nbsp;&nbsp;&nbsp;&nbsp;|--train2014/  
+  &nbsp;&nbsp;&nbsp;&nbsp;|--val2014/  
+  &nbsp;&nbsp;&nbsp;&nbsp;|--test2014/  
+  &nbsp;&nbsp;&nbsp;&nbsp;|--annotations/  
+  &nbsp;&nbsp;|--misc/  
+  &nbsp;&nbsp;|--sent/  
+  &nbsp;&nbsp;|--txt/  
 
 where the mscoco/feature/coco2014 folder contains the raw image and annotation files of [MSCOCO 2014](https://cocodataset.org/#download) dataset.  
 You can download other files from the following links.
