@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3 python online_test.py --folder experiments_RCMF/RCMF_SCST/ --resume 22

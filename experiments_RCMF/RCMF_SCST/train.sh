@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python main.py --folder ./experiments_RCMF/RCMF_SCST/ --resume 14
