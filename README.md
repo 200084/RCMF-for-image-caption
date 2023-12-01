@@ -16,5 +16,6 @@ RCMF-for-image-caption
 
 # Preparation
 ## coco-caption preparation
-Refer [coco-caption](https://github.com/232525/PureT/blob/main/coco_caption/README.md), you will first need to download and install the [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html) environment for use by SPICE. 
+Refer [coco-caption](https://github.com/232525/PureT/blob/main/coco_caption/README.md), you will first need to download and install the [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/index.html) environment for use by SPICE.  
+Remember to unzip the .rar archive in the coco-caption.
 ## Data preparation
