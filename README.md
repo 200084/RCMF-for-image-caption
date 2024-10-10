@@ -68,6 +68,16 @@ Before testing, you may need check and modify the parameters in `config.yml` and
 You can download the pre-trained model from [Baidu cloud](https://pan.baidu.com/s/1iMllCZAPEl1TSOy6yU-ukg). Extract code: kpmh
 
 # Reference
+If you find this repo useful, please consider citing (no obligation at all):
+```
+@article{wang2024regular,
+  title={Regular Constrained Multimodal Fusion for Image Captioning},
+  author={Wang, Liya and Chen, Haipeng and Liu, Yu and Lyu, Yingda},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
 # Acknowledgements
 This repository is based on [PureT](https://github.com/232525/PureT#readme), [ruotianluo/self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch) and [microsoft/Swin-Transformer](https://github.com/microsoft/Swin-Transformer).
