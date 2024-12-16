@@ -1,6 +1,6 @@
 RCMF-for-image-caption
 ====
-### Implementation of Regular Constrained Multimodal Fusion Model for Image (RCMF)[IEEE TCSVT 2024].
+### Implementation of Regular Constrained Multimodal Fusion Model for Image (RCMF)[[IEEE TCSVT 2024](https://ieeexplore.ieee.org/abstract/document/10589672)].
 <div align="center">
   <img src="https://github.com/200084/RCMF-for-image-caption/blob/main/imgs/Framework.jpg">
 </div>
