@@ -71,7 +71,7 @@ You can download the pre-trained model from [Baidu cloud](https://pan.baidu.com/
 If you find this repo useful, please consider citing (no obligation at all):
 ```
 @article{wang2024regular,
-  title={Regular Constrained Multimodal Fusion for Image Captioning},
+  title={Regular constrained multimodal fusion for image captioning},
   author={Wang, Liya and Chen, Haipeng and Liu, Yu and Lyu, Yingda},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2024},
