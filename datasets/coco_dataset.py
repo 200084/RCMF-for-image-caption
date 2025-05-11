@@ -30,7 +30,7 @@ class CocoDataset(data.Dataset):
         self.seq_per_img = seq_per_img
         # self.image_ids = utils.load_lines(image_ids_path)
         # 此处image_ids_path为ids2path的映射dict
-        ########################################--------online test-----############################
+        ########################################--------online test(需onlineTest则注释掉此部分,并放开最后一行，反之则相反操作)-----############################
         with open(image_ids_path, 'r') as f:
             self.ids2path = json.load(f)           # dict {image_id: image_path}
             self.image_ids = list(self.ids2path.keys())  # list of str
@@ -65,7 +65,7 @@ class CocoDataset(data.Dataset):
 
     def __getitem__(self, index):
         image_id = self.image_ids[index]
-        ########################################-------online test------############################
+        ########################################-------online test(需onlineTest则注释掉此部分，反之则相反操作)------############################
         image_path = self.ids2path[image_id]
         ########################################------------------------############################
         indices = np.array([index]).astype('int')
